@@ -1,0 +1,33 @@
+import React from 'react';
+import { Link } from 'react-router-dom';
+
+function Record0() {
+  return (
+    <div class="post-container">
+      <Link to="/records">
+        <button>Return to Main Page</button>
+      </Link>
+      <h1>2024-10-13</h1>
+
+      <span class="by">Messenger <strong>Laura</strong> on <strong>October 13th, 2024</strong></span>
+
+      <div class="post-body">
+        <p>Key points:</p>
+
+        <ul>
+          <li>听读经讲道的东西不是为了读的听的当下，是在之后遇到困难的时候用的。是神给我们抵御困难的帮助。.</li>
+        </ul>
+
+        <p>Words from bible:</p>
+        <ul>
+            <li>耶和华说：我知道我向你们所怀的意念是赐平安的意念，不是降灾祸的意念，要叫你们末后有指望。你们要呼求我，祷告我，我就应允你们。你们寻求我，若专心寻求我，就必寻见。【耶29:11-13】<br/>The LORD says: For I know the plans I have for you—plans to give you peace and not disaster, to give you a future and a hope. Then you will call on me and come and pray to me, and I will listen to you. You will seek me and find me when you seek me with all your heart. (Jeremiah 29:11-13)</li>
+            <li>如果这样，他从创世以来，就必多次受苦了。但如今在这末世显现一次，把自己献为祭，好除掉罪。【希9:26】<br/>If that were so, He would have had to suffer many times since the creation of the world. But now He has appeared once for all at the end of the ages to do away with sin by the sacrifice of Himself. (Hebrews 9:26)</li>
+            <li>因为摩西当日照着律法将各样诫命传给众百姓，就拿朱红色绒和牛膝草，把牛犊山羊的血和水洒在书上，又洒在众百姓身上，说：这血就是神与你们立约的凭据。他又照样把血洒在帐幕和各样器皿上。按着律法，凡物差不多都是用血洁净的；若不流血，罪就不得赦免了。【希9:19-22】<br/>"When Moses had proclaimed every command of the law to all the people, he took the blood of calves and goats, along with water, scarlet wool, and hyssop, and sprinkled the scroll and all the people. He said, 'This is the blood of the covenant, which God has commanded you to keep.' In the same way, he sprinkled with the blood both the tabernacle and everything used in its ceremonies. According to the law, nearly everything is purified with blood, and without the shedding of blood, there is no forgiveness." (Hebrews 9:19-22)</li>
+            <li>现在我们既靠着他的血称义，就更要藉着他免去神的愤怒。因为我们作仇敌的时候，且藉着神儿子的死，得与神和好；既已和好，就更要因他的生得救了。不但如此，我们既藉着我主耶稣基督得与神和好，也就藉着他以神为乐。【罗5:9-11】<br/>Now that we have been justified by His blood, how much more shall we be saved from God’s wrath through Him! For if, while we were God’s enemies, we were reconciled to Him through the death of His Son, how much more, having been reconciled, shall we be saved through His life! Not only is this so, but we also rejoice in God through our Lord Jesus Christ, through whom we have now received reconciliation. (Romans 5:9-11)</li>
+        </ul>
+      </div>
+    </div>
+  );
+}
+
+export default Record0;
