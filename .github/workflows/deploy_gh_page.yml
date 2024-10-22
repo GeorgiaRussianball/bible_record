@@ -2,7 +2,7 @@ name: Deploy GitHub Page
 
 on:
   push:
-    branches: ['useReact_template']
+    branches: ['useReact_page']
 
   workflow_dispatch:
 
