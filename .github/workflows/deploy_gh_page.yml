@@ -37,7 +37,7 @@ jobs:
       - name: Install react-router-dom
         run: yarn add react-router-dom
       - name: Build
-        run: yarn build
+        run: CI=false yarn build
         env:
           PUBLIC_URL: /bible_record
       - name: Upload artifact
