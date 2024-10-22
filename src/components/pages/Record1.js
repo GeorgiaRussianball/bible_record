@@ -15,7 +15,7 @@ function Record0() {
         <p>Key points:</p>
 
         <ul>
-          <li>听读经讲道的东西不是为了读的听的当下，是在之后遇到困难的时候用的。是神给我们抵御困难的帮助。.</li>
+          <li>在罪上死，在基督里活。</li>
         </ul>
 
         <p>Words from bible:</p>
